@@ -1,2 +1,2 @@
 # 051-JavaLisp
-Lisp implementation in Java. -- Probably a very small one.
+A refactoring of JavaLisp Lisp. For details, see file: download.md.
